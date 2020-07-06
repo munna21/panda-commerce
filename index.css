@@ -1,0 +1,71 @@
+.container{margin-bottom: 100px;}
+
+
+.orange-bg{
+    
+    background:rgb(252, 234, 243);
+    border-radius: 10px;
+
+}
+
+
+.carousel-item{
+
+  padding:20px 25px;
+
+}
+
+
+    
+    
+    .primary-btn{
+
+        background:rgb(228, 83, 114)linear-gradient(red, orange,pink);border-radius: 7px;
+         border:1px solid orangered;color:white;
+
+    }
+    
+
+    .price{
+        
+        color:rgb(228, 83, 114)
+    
+    }
+
+    .cat-1{
+        background:orangered linear-gradient(orange,orangered,pink,red,rgb(228,83,68)) ;
+        padding:10px 30px;border:1px solid orangered;border-radius: 10px;
+        
+    
+    
+    }
+
+.cat-2{
+    background: purple linear-gradient(purple, orange,pink);
+padding:10px 30px; border-radius: 10px;border:1px solid orange;}
+
+
+.cat-3{background: blue linear-gradient(blue,powderblue,orange);
+padding:10px 30px;border-radius: 10px;border:1px solid blueviolet}
+ .catagories h1{color:white}
+
+  .catagories img{width:100px;}
+
+
+  .card{
+        border:none;
+        box-shadow: 5px 5px 10px lightgray;
+        border-radius: 25px;
+
+
+  }
+
+  .card-footer{
+      background-color: white;
+      border-top: none;
+  }
+
+  #subscribe{height: 300px;}
+  #subscribe h6{color:gray}
+
+  p{text-align: center;color:gray;}
